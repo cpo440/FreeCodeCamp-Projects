@@ -1,0 +1,35 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/* ======= ID ======= */
+#rick-thumb {
+    width: 350px;
+    height: auto;
+}
+
+#about-para {
+    font-family: roboto;
+    font-size: 20px;
+}
+
+
+/* ======= Classes ======= */
+.serv-para {
+	font-family: roboto;
+    font-size: 20px;
+}
+
+
+
+
+/* ======= Elements ======= */
+
+
+section {
+    height: 650px;
+}
+
+
