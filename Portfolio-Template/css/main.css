@@ -6,19 +6,25 @@
 /* ======= ID ======= */
 
 #rick-thumb {
-    width: 350px;
+    width: 500px;
     height: auto;
 }
 
 #about-para {
     font-family: roboto;
-    font-size: 20px;
+    font-size: 25px;
+    color: rgba(131, 131, 131, .6);
 }
 
 #callToAction {
-    background-color: lightslategrey;
+    background-color: darkslategray;
+    color: white;
+    margin-top: 50px;
 }
 
+#top-nav {
+    background: darkslategray;
+}
 
 /* ======= Classes ======= */
 
@@ -27,7 +33,10 @@
     font-size: 20px;
 }
 
-
+.panel {
+    background-color: transparent;
+    color: rgba(131, 131, 131, .6);
+}
 /* ======= Elements ======= */
 
 body {
@@ -36,10 +45,8 @@ body {
     background-image: url("../img/tweed.png");
 }
 
-/*section {
-    height: 650px;
-}*/
-
 h1 {
     margin-top: 50px;
+    color: rgba(255,255,255, 0.3);
 }
+
